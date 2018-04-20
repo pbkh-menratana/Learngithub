@@ -1,2 +1,2 @@
-This is test github update
+This is test github update directly
 
